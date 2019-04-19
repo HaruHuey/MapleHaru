@@ -1,0 +1,35 @@
+.icon-color {
+    color: indianred;
+    text-decoration-color: indianred;
+}
+
+.haru {
+    color: indianred;
+}
+
+.setting-border {
+    border-radius: 0;
+}
+
+.table-tr-mapledb {
+    cursor: pointer;
+}
+
+.margin-flush {
+    margin: 0;
+}
+
+.a-style-mapleurl:link{
+    text-decoration: none;
+    color: black;
+}
+
+.a-style-mapleurl:visited{
+    text-decoration: none;
+    color: black;
+}
+
+.a-style-mapleurl:hover{
+    text-decoration: none;
+    color: black;
+}
