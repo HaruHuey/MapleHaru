@@ -20,7 +20,8 @@ https://maple.haruhuey.kr --> Cloudflare SSL · DNS
 
 ### Maple.Haru 기타 사항
 
-1주일 동안 친구들에게 설명해주고 Django에 대해 추가적으로 공부하기 위한 프로젝트입니다.<br/>
+1주일 동안 진행했던 Maple.Haru 프로젝트입니다.<br/>
+친구들에게 설명해주고 Django에 대해 추가적으로 공부하기 위해 진행했습니다.<br/>
 크롤러 부분이 비효율적으로 동작하기 때문에 수정을 하려고 생각 중이며 Django ORM을<br/>
 사용하여 DB에 담고 가져오게 됩니다.<br/>
 <br/>
