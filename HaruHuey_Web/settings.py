@@ -73,18 +73,6 @@ WSGI_APPLICATION = 'HaruHuey_Web.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
-'''
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql', # Django DB 설정
-        'NAME': 'towyllmw', # DB 이름
-        'USER': 'towyllmw', # DB 접속 유저
-        'PASSWORD': 'P4N1j_qjigdvibY4Rco160JQxQKtexCZ', # DB 접속 유저 비밀번호
-        'HOST': 'otto.db.elephantsql.com', # DB HOST
-        'PORT': '5432' # DB PORT
-    }
-}
-'''
 
 # DB 속도 개선을 위해 SQL서버로 이전
 DATABASES = {
